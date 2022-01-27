@@ -4,7 +4,13 @@ Info page for hackerX event - 27.Jan 2022
 # Contacts
 Connect with me on LinkedIn: https://www.linkedin.com/in/fgeorg/
 
+Quick survey (don't enter any personal info - keep it anonymous): https://forms.office.com/r/pyMe9h8fjF
+
+
+
 ![image](https://user-images.githubusercontent.com/3209819/151401505-b13bff84-75b5-437d-afad-8b79e9e86272.png)
+
+
 
 
 # Microsoft Commercial Software Engineering
